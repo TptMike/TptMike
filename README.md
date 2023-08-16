@@ -5,8 +5,8 @@ I am a .NET developer and IT Systems Administrator for Linux, Windows, and vmWar
 [![My Skills](https://skillicons.dev/icons?i=java,dotnet,cs,vue,php,laravel)](https://github.com/tptmike)
 
 ## Systems
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,mysql)]([https://skillicons.dev](https://github.com/tptmike))
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,mysql)](https://github.com/tptmike)
 
 ## Scripting
-[![My Skills](https://skillicons.dev/icons?i=bash,python,powershell)]([https://skillicons.dev](https://github.com/tptmike)https://github.com/tptmike)
+[![My Skills](https://skillicons.dev/icons?i=bash,python,powershell)](https://github.com/tptmike)
 
